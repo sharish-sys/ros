@@ -1,0 +1,7 @@
+gedit .bashrc: used to edit the environment variable
+colon build: builds the package in soruce folder
+ros2 pkg create robot_controller_sept_09 --build-type ament_python --dependencies rcply: creates a new ros package 
+chmod +x first_node.py: makes the python file an executable
+
+
+
